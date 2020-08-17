@@ -7,3 +7,4 @@ This is the place where presentation materials on RGB, Spectrum and other other 
 4. RGB, Spectrum, Storm. Assets on Lightning Network - https://www.youtube.com/watch?v=uKWki-4bOeE&t=106s
 5. RGB Technical Internals, Part I - https://youtu.be/OoTx6dIj4i4
 6. RGB Technical Internals, Part II - https://youtu.be/EMI4dp4QE_M
+7. RGB Technical Internals, Part III - https://youtu.be/2orBYdgsoO0
