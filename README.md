@@ -10,3 +10,4 @@ Knowledge base and explanations of Bitcoin L2/L3 technological stack development
 6. Development calls agenda board - https://github.com/orgs/LNP-BP/projects/8
 7. Common and business-related discussions on RGB - https://t.me/rgbtelegram
 8. Development process and discussions - IRC: #lnp-bp @Freenode.net
+9. RGB website - https://rgb-org.github.io/
