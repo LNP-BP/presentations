@@ -8,3 +8,4 @@ This is the place where presentation materials on RGB, Spectrum and other other 
 5. RGB Technical Internals, Part I - https://youtu.be/OoTx6dIj4i4
 6. RGB Technical Internals, Part II - https://youtu.be/EMI4dp4QE_M
 7. RGB Technical Internals, Part III - https://youtu.be/2orBYdgsoO0
+8. Potzblitz LNP/BP Networking and Integration -  https://www.youtube.com/watch?v=kTwZKsbIPbc&t=2123s&ab_channel=LNPBPStandardsAssociation
