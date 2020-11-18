@@ -1,1 +1,1 @@
-Light greu version of the RGB symbol logo
+Light grey version of the RGB symbol logo
