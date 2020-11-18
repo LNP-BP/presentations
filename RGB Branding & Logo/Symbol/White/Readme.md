@@ -1,0 +1,1 @@
+White symbol logo version
