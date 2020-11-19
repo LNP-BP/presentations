@@ -9,3 +9,5 @@ This is the place where presentation materials on RGB, Spectrum and other other 
 6. RGB Technical Internals, Part II - https://youtu.be/EMI4dp4QE_M
 7. RGB Technical Internals, Part III - https://youtu.be/2orBYdgsoO0
 8. Potzblitz LNP/BP Networking and Integration -  https://www.youtube.com/watch?v=kTwZKsbIPbc&t=2123s&ab_channel=LNPBPStandardsAssociation
+9. LNP Node Alpha Demos - https://www.youtube.com/playlist?list=PLG6aOZYXJo-8WlwF21B-R5kzY8--ejsZP
+10. RGB Beta Demo - https://www.youtube.com/watch?v=t_EtUf4601A&t=4s&ab_channel=LNPBPStandardsAssociation
