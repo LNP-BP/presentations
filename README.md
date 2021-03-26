@@ -1,4 +1,4 @@
-## List of videos to start with when getting familiar with RGB & LNP/BP tech stack
+## List of videos to start with when getting familiar with RGB & LNP/BP tech stack:
 1. RGBCon 0 - https://www.youtube.com/playlist?list=PLG6aOZYXJo--YQJEAtFJhlfH-lj3x9SH5
 2. RGB Technical Internals - https://www.youtube.com/playlist?list=PLG6aOZYXJo-9femajexL2rObt4vvjQRnD
 3. RGB Technology Guide - https://www.youtube.com/watch?v=spTZz7jh60o&t=36s
