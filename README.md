@@ -33,4 +33,4 @@
 * Repos - https://github.com/mycitadel
 * Twitter - https://twitter.com/mycitadel_io
 * Telegram - https://t.me/mycitadel
-3. RGBex.io - rgbex.io
+3. RGBex.io - https://rgbex.io/
