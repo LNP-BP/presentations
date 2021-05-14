@@ -26,6 +26,7 @@
 2. RGB Reddit - https://www.reddit.com/r/RGB_protocol/
 3. RGB website - https://rgb-org.github.io/
 4. RGB FAQ - https://www.rgbfaq.com/
+5. RGB Telegram chat - https://t.me/rgbtelegram
 
 ## Projects/products that integrated RGB and/or LNP/BP tech stack:
 1. Bitcoin Pro -  https://github.com/pandoracore/bitcoin-pro
